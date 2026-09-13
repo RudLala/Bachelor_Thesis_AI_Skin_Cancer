@@ -69,7 +69,7 @@ Results:
 Lucerne University of Applied Sciences and Arts  
 Bachelor of Science in International IT Management  
 2026
-
+[Read the full Bachelor Thesis](Bachelor_Thesis_AI_Skin_Cancer_Diagnosis.pdf)
 ## Disclaimer
 
 This project was developed for academic and educational purposes.
